@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
