@@ -5,7 +5,6 @@ class Solution {
         int pivot = nums[0];
         while (left <= right) {
             int mid = (right + left) / 2;
-            System.out.println("lmr: " + left + ", " + mid + ", " + right);
             if (nums[mid] >= nums[0]) {
                 pivot = mid;
                 // 4 5 6 7 8 0 1
@@ -24,8 +23,6 @@ class Solution {
     }
 
     private int binarySearch(int[] nums, int target, int left, int right) {
-        System.out.println("left: " + left);
-        System.out.println("right: " + right);
         while (left <= right) {
             int mid = (left + right) / 2;
             if (nums[mid] == target)
