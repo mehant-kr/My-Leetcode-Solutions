@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Linked List
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
