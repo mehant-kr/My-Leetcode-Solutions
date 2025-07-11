@@ -55,9 +55,7 @@ class Solution:
             v2 = l2.val if l2 else 0
 
             # new digit
-            val = v1 + v2 + carry
-            carry = val // 10
-            val = val % 10
+            carry, val = divmod(v1 + v2 + carry, 10)
             cur.next = ListNode(val)
 
             # update ptrs
