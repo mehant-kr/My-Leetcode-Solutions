@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/mehant-kr/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
